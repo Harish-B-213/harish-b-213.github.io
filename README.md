@@ -5,3 +5,5 @@ Deliberate issues for the agent to find:
 - `about.html`: no meta description, thin content
 - `blog/invoice-vs-receipt.html`: duplicate title (same as the invoice guide)
 - `old-pricing.html`: orphan page (in the sitemap, linked from nowhere)
+- `index.html`: dashboard image with no alt text
+- `features.html`: broken link to `/blog/payment-terms-guide.html` (404)
