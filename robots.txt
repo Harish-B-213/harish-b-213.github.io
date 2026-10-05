@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://harish-b-213.github.io/sitemap.xml
