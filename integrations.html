@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Integrations – Tidewater Invoicing</title>
+<meta name="description" content="Connect Tidewater to Xero, QuickBooks, Stripe, GoCardless and Zapier.">
+<link rel="canonical" href="https://harish-b-213.github.io/integrations.html">
+<meta property="og:title" content="Integrations – Tidewater Invoicing">
+<meta property="og:description" content="Connect Tidewater to Xero, QuickBooks, Stripe, GoCardless and Zapier.">
+<meta property="og:url" content="https://harish-b-213.github.io/integrations.html">
+<meta property="og:type" content="website">
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<header class="top"><a class="logo" href="/">Tidewater</a>
+<nav><a href="/features.html">Features</a><a href="/pricing.html">Pricing</a><a href="/blog/">Blog</a><a href="/about.html">About</a><a class="btn" href="/contact.html">Book a demo</a></nav></header>
+<main>
+<div id="app"><p>Loading integrations…</p></div>
+<script>
+const apps=[["Xero","Invoices, payments and VAT totals sync to Xero every hour, with customers matched by email."],
+  ["QuickBooks","Paid invoices post to QuickBooks with the right income account and VAT rate."],
+  ["Stripe","Take card, Apple Pay and Google Pay on every invoice. Paid invoices close themselves."],
+  ["GoCardless","Collect bank payments and Direct Debits for recurring invoices."],
+  ["Zapier","Send new invoices and payments to more than 5,000 other apps."]];
+document.getElementById('app').innerHTML='<h1>Integrations</h1><p>Tidewater works with the tools you already use. Connect each one in a couple of clicks from Settings.</p>'+
+  apps.map(a=>'<h2>'+a[0]+'</h2><p>'+a[1]+'</p>').join('');
+</script>
+</main>
+<footer><p>&copy; 2026 Tidewater Invoicing Ltd. &middot; 14 Harbour Street, Bristol BS1 4QA, United Kingdom</p>
+<p><a href="/about.html">About</a> &middot; <a href="/contact.html">Contact</a> &middot; <a href="/terms.html">Terms</a> &middot; <a href="/blog/">Blog</a></p></footer>
+</body>
+</html>
