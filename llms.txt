@@ -1,0 +1,23 @@
+# Invoicing Software for Small Businesses
+
+> Send professional invoices in a minute, take card and bank payments, and chase late payers automatically. Free for your first 10 invoices.
+
+## Products and services
+
+- [Pricing Plans for Tidewater Invoicing – Simple Monthly Plans for Freelancers, Trades,…](https://harish-b-213.github.io/pricing.html): Free for 10 invoices, then £9, £19 or £39 a month. No setup fees, cancel any time.
+- [Old pricing – Tidewater Invoicing](https://harish-b-213.github.io/old-pricing.html): Our 2023 plans. These prices are no longer available.
+
+## Articles
+
+- [Blog – Tidewater Invoicing](https://harish-b-213.github.io/blog/): Guides and templates for getting small business invoices paid on time.
+- [Late Payment Reminder Email: 5 Templates – Tidewater](https://harish-b-213.github.io/blog/late-payment-reminder-email.html): Five polite, firm late payment reminder emails you can copy, from a gentle nudge to a final notice.
+- [How to Write an Invoice (Free Template) – Tidewater](https://harish-b-213.github.io/blog/how-to-write-an-invoice.html): What a UK invoice must include, a step-by-step example, and a free template you can copy.
+- [Free Invoice Template UK – Tidewater](https://harish-b-213.github.io/blog/invoice-template-uk.html): A free invoice template for UK businesses, with the fields HMRC expects.
+- [How to Write an Invoice (Free Template) – Tidewater](https://harish-b-213.github.io/blog/invoice-vs-receipt.html): The difference between an invoice and a receipt, and when you need each.
+
+## Optional
+
+- [About – Tidewater Invoicing](https://harish-b-213.github.io/about.html): Tidewater was started in Bristol in 2021 by two bookkeepers tired of chasing small business invoices.
+- [Contact – Tidewater Invoicing](https://harish-b-213.github.io/contact.html): Get in touch with Tidewater Invoicing. Book a 20-minute demo or ask a question; we respond within one working day.
+- [Features – Tidewater Invoicing](https://harish-b-213.github.io/features.html): Invoice templates, online payments, automatic reminders, recurring invoices and exports to Xero and QuickBooks.
+- [Integrations – Tidewater Invoicing](https://harish-b-213.github.io/integrations.html): Connect Tidewater to Xero, QuickBooks, Stripe, GoCardless and Zapier.
